@@ -1,0 +1,5 @@
+/.idea/*
+/privateKey.pem
+/publicKey.pem
+/test.txt
+/test_signed.sig
